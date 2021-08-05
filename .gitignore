@@ -3,7 +3,4 @@ _MACOSX/
 r-09-11-favicon/
 yarn-error.log
 r-09-11-favicon.zip
-public/bundle.js
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
+public/dist/
